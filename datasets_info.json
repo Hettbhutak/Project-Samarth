@@ -1,0 +1,12 @@
+{
+  "rainfall": {
+    "title": "Sub-Divisional Monthly Rainfall Data",
+    "resource_id": "9ef84268-d588-465a-a308-a864a43d0070",
+    "source": "India Meteorological Department (IMD)"
+  },
+  "crop_production": {
+    "title": "District-wise, Season-wise, Crop Production Statistics (2000 Onwards)",
+    "resource_id": "9ef84268-d588-465a-a308-a864a43d07e0",
+    "source": "Directorate of Economics & Statistics, Ministry of Agriculture"
+  }
+}
